@@ -110,7 +110,8 @@
                                     "userConfig": {
                                         "fn": "onButtonClick",
                                         "implHandler": [
-                                            "alert('aasdsa');   "
+                                            "alert('aasdsa');",
+                                            "alert('asdsadsa');"
                                         ],
                                         "name": "click",
                                         "scope": "me"

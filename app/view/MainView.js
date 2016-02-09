@@ -72,6 +72,11 @@ Ext.define('TestApp.view.MainView', {
                             listeners: {
                                 click: 'onButtonClick'
                             }
+                        },
+                        {
+                            xtype: 'button',
+                            flex: 1,
+                            text: 'MyButton'
                         }
                     ]
                 }

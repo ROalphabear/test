@@ -18,7 +18,8 @@ Ext.define('TestApp.view.MainViewViewController', {
     alias: 'controller.mainview',
 
     onButtonClick: function(button, e, eOpts) {
-        alert('aasdsa');
+        alert('1111111');
+        alert('asdsadsa');
     },
 
     onButtonClick1: function(button, e, eOpts) {
